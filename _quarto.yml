@@ -7,12 +7,14 @@ project:
 website:
   title: "Aashish Gupta"
   navbar:
+    search: false
     right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+      - href: https://lekhajokha.github.io/blog/
+        text: Blog
+        
 format:
   html:
     theme: cosmo
