@@ -6,23 +6,25 @@ project:
 
 website:
   title: "Aashish Gupta"
+  reader-mode: true
+
   navbar:
     search: false
     right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
-      - href: index.qmd
+      - href: https://lekhajokha.github.io
         text: Home
+      - href: https://lekhajokha.github.io/updates
+        text: Updates
       - href: https://lekhajokha.github.io/blog/
-        text: Blog
+        text: Notes
+      - href: https://lekhajokha.github.io/ag_cv.pdf
+        text: CV
+
 
       
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
 
 editor: visual
