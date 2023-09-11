@@ -3,6 +3,9 @@ title: "Indian Gift House and national belonging"
 author: "Aashish Gupta"
 date: "2023-09-11"
 categories: [seen-unseen, देखा-उन्देखा]
+filters:
+  - lightbox
+lightbox: auto
 ---
 
 I have been living on and off in a district in Bihar this year. Shops owned by Muslims in this district often have India or National in their names. My friend [Mahtab Alam](https://twitter.com/MahtabNama) had first this pointed out to me, several years ago. Here are some photos.
