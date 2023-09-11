@@ -2,7 +2,7 @@
 title: "Indian Gift House and national belonging"
 author: "Aashish Gupta"
 date: "2023-09-11"
-categories: [seen-unseen, देखा-उन्देखा]
+categories: [seen-unseen, देखा-अन्देखा ]
 filters:
   - lightbox
 lightbox: auto
